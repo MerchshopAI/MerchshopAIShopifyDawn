@@ -64,7 +64,7 @@
           "type": "column",
           "settings": {
             "title": "<strong>Experienced<\/strong>",
-            "text": "<p>Merchshop was born out of over 40 years of experience in branded goods<\/p>",
+            "text": "<p>Swaasi was born out of over 40 years of experience in branded goods<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -82,7 +82,7 @@
           "type": "column",
           "settings": {
             "title": "<strong>Innovative<\/strong>",
-            "text": "<p>Merchshop embraces the latest technologies to bring you the latest items at the best value<\/p>",
+            "text": "<p>Swaasi embraces the latest technologies to bring you the latest items at the best value<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -164,7 +164,7 @@
         "heading_nyX7FM": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>MERCHSHOP AI PROMISE<\/strong>",
+            "heading": "<strong>The Swaasi PROMISE<\/strong>",
             "heading_size": "h2"
           }
         },
@@ -177,6 +177,7 @@
         },
         "button_Gtrya3": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": "",
