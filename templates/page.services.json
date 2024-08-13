@@ -23,14 +23,14 @@
         "heading_xzEhGb": {
           "type": "heading",
           "settings": {
-            "heading": "Our Story",
+            "heading": "Swag as a Service",
             "heading_size": "h1"
           }
         },
         "text_U3arBp": {
           "type": "text",
           "settings": {
-            "text": "For over 40 Years, the Liscum Family has provided the finest promotional goods to the largest companies in the world - Merchshop.ai is the evolution of a relentless pursuit of quality and service. ",
+            "text": "Swaasi was founded on the principle of \"Swag as a Service.\"",
             "text_style": "body"
           }
         },
@@ -65,103 +65,97 @@
         "show_text_below": true
       }
     },
-    "image_with_text_6M6fMV": {
-      "type": "image-with-text",
+    "rich_text_LQzzzc": {
+      "type": "rich-text",
       "blocks": {
-        "heading_KCTQRt": {
+        "heading_mFiRrF": {
           "type": "heading",
           "settings": {
-            "heading": "Hi, nice to meet you",
+            "heading": "The Merchshop",
             "heading_size": "h1"
           }
         },
-        "text_bcbLhd": {
+        "text_r9BDKN": {
           "type": "text",
           "settings": {
-            "text": "<p>It all started in 1984 with a small shop called Southeastern Embroidery Works. With a focus on delivering high quality products and good customer service, we’ve been operating continuously for almost 40 years.<br\/><\/p><p>In 2020, my team and I set out on a mission to elevate the custom-merchandise purchasing experience to match the exquisite quality of the products my family has been producing for decades. <\/p><p><\/p><p>We built Merchshop. I hope you love it.<\/p>",
-            "text_style": "body"
+            "text": "<p>Swaasi's flagship product is the fully automated Merchshop. A Merchshop is a bespoke purchasing experience for your business or organization, where you can order branded merch with your logo in a fun, easy to use experience.<\/p>"
           }
         },
-        "button_Utxb9P": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        },
-        "caption_eVpj3h": {
-          "type": "caption",
-          "settings": {
-            "caption": "Charles Liscum, CEO",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "large"
-          }
-        }
-      },
-      "block_order": [
-        "heading_KCTQRt",
-        "text_bcbLhd",
-        "button_Utxb9P",
-        "caption_eVpj3h"
-      ],
-      "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_HmXkXQ": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_BDjad7": {
-          "type": "heading",
-          "settings": {
-            "heading": "An Unrivaled, Personal Experience",
-            "heading_size": "h1"
-          }
-        },
-        "text_egcaxi": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Swaasi was founded on the principle that purchasing branded merchandise should fundamentally encompass 3 core elements.<em>Simple. Curated. Fun.<\/em><\/p><p>Guided by this mission, we have created an experience rivalled by no others - the personalized Merchshop. Your Merchshop will grow and change with your business, the seasons, the hottest trends, and become your trusted source for only the best in quality and service.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "button_GdnzHe": {
+        "button_dhmUeH": {
           "type": "button",
           "settings": {
             "button_label": "Button label",
             "button_link": "",
-            "button_style_secondary": false
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "heading_BDjad7",
-        "text_egcaxi",
-        "button_GdnzHe"
+        "heading_mFiRrF",
+        "text_r9BDKN",
+        "button_dhmUeH"
       ],
       "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_deJhYg": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_k4qggn": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_ggpYEj": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_PjzYtg": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_k4qggn",
+        "column_ggpYEj",
+        "column_PjzYtg"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -287,8 +281,8 @@
   "order": [
     "main",
     "image_banner_7NxKwk",
-    "image_with_text_6M6fMV",
-    "image_with_text_HmXkXQ",
+    "rich_text_LQzzzc",
+    "multicolumn_deJhYg",
     "rich_text_dqE8nD",
     "rich_text_3bj6Vz",
     "multicolumn_r6Ljxh"
