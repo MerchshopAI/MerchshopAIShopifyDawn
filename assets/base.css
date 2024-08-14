@@ -3569,4 +3569,4 @@ details-disclosure > details {
 
 
 /* remove search from header 08142024 CDL */
-.header_icon--search {display:none}
+.header_icon--search {display:none !important}
