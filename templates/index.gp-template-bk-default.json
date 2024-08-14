@@ -8,208 +8,26 @@
 * ------------------------------------------------------------
 */
 {
+  "order": [
+    "image_banner",
+    "multicolumn_JCzz7g",
+    "image_banner_QPNMTw",
+    "image_with_text_MpTTcU",
+    "collage",
+    "featured_collection",
+    "video"
+  ],
   "sections": {
-    "image_banner": {
-      "type": "image-banner",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "We Power Merch Stores",
-            "heading_size": "hxl"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<strong>No Minimums - Fast Turnaround<\/strong>",
-            "text_style": "body"
-          }
-        },
-        "button": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text",
-        "button"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/hero.jpg",
-        "image_overlay_opacity": 40,
-        "image_height": "large",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-3",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
-    "multicolumn_JCzz7g": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_g6qUb3": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>Experienced<\/strong>",
-            "text": "<p>Swaasi was born out of over 40 years of experience in branded goods<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_AX3ab7": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>Curated<\/strong>",
-            "text": "<p>We keep your feed full of the freshest, on-trend products<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_7PCqKx": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>Innovative<\/strong>",
-            "text": "<p>Swaasi embraces the latest technologies to bring you the latest items at the best value<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_g6qUb3",
-        "column_AX3ab7",
-        "column_7PCqKx"
-      ],
-      "settings": {
-        "title": "Meet The Business Levelling-Up Merch",
-        "heading_size": "h0",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_banner_QPNMTw": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_g3nQFE": {
-          "type": "heading",
-          "settings": {
-            "heading": "Schedule A Demo - Get A Free Tumbler With Your Logo",
-            "heading_size": "h2"
-          }
-        },
-        "text_tdW6Et": {
-          "type": "text",
-          "settings": {
-            "text": "Your logo on the best brands, manufactured and delivered on-demand!",
-            "text_style": "body"
-          }
-        },
-        "buttons_cL9N7J": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Book Your Demo!",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_g3nQFE",
-        "text_tdW6Et",
-        "buttons_cL9N7J"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Template_20from_20PolarCamelLTM7269_20YourLogoHere6-PhotoRoom.jpg",
-        "image_overlay_opacity": 50,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-3",
-        "image_behavior": "ambient",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": false
-      }
-    },
-    "image_with_text_MpTTcU": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_nyX7FM": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>The Swaasi PROMISE<\/strong>",
-            "heading_size": "h2"
-          }
-        },
-        "text_nC89NQ": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Only Quality<br\/><\/strong>We've chosen the finest of what's available. We've put thousands of items through their paces, and 95% of them didn't make the cut. We want to make sure that every product you order is something you'll be happy to display.<\/p><p><br\/><strong>Streamlined Experience<br\/><\/strong>The entire purchasing process has been automated. Find what you're looking for quickly, then submit your design, mock up your products, and check out. That's all there is to it.<br\/><br\/><strong>Customer Obsessed<br\/><\/strong>Our crew is always willing to assist. If you don't see what you're searching for, please let us know and we'll do our best to find it. We will do everything possible to make your experience stress-free and enjoyable.<strong><br\/><\/strong><\/p><p><strong><br\/><\/strong><\/p>",
-            "text_style": "body"
-          }
-        },
-        "button_Gtrya3": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_nyX7FM",
-        "text_nC89NQ",
-        "button_Gtrya3"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Swaasi_20Photo.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "collage": {
       "type": "collage",
       "blocks": {
         "collection-0": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "collection-1": {
           "type": "collection",
           "settings": {
             "collection": ""
@@ -220,12 +38,6 @@
           "settings": {
             "product": "",
             "second_image": false
-          }
-        },
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
           }
         }
       },
@@ -275,6 +87,203 @@
         "padding_bottom": 36
       }
     },
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop all",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "We Power Merch Stores",
+            "heading_size": "hxl"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>No Minimums - Fast Turnaround<\/strong>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/hero.jpg",
+        "image_overlay_opacity": 40,
+        "image_height": "large",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "image_banner_QPNMTw": {
+      "type": "image-banner",
+      "blocks": {
+        "buttons_cL9N7J": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Book Your Demo!",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "heading_g3nQFE": {
+          "type": "heading",
+          "settings": {
+            "heading": "Schedule A Demo - Get A Free Tumbler With Your Logo",
+            "heading_size": "h2"
+          }
+        },
+        "text_tdW6Et": {
+          "type": "text",
+          "settings": {
+            "text": "Your logo on the best brands, manufactured and delivered on-demand!",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_g3nQFE",
+        "text_tdW6Et",
+        "buttons_cL9N7J"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Template_20from_20PolarCamelLTM7269_20YourLogoHere6-PhotoRoom.jpg",
+        "image_overlay_opacity": 50,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "image_with_text_MpTTcU": {
+      "type": "image-with-text",
+      "blocks": {
+        "button_Gtrya3": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "heading_nyX7FM": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>The Swaasi PROMISE<\/strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_nC89NQ": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Only Quality<br\/><\/strong>We've chosen the finest of what's available. We've put thousands of items through their paces, and 95% of them didn't make the cut. We want to make sure that every product you order is something you'll be happy to display.<\/p><p><br\/><strong>Streamlined Experience<br\/><\/strong>The entire purchasing process has been automated. Find what you're looking for quickly, then submit your design, mock up your products, and check out. That's all there is to it.<br\/><br\/><strong>Customer Obsessed<br\/><\/strong>Our crew is always willing to assist. If you don't see what you're searching for, please let us know and we'll do our best to find it. We will do everything possible to make your experience stress-free and enjoyable.<strong><br\/><\/strong><\/p><p><strong><br\/><\/strong><\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_nyX7FM",
+        "text_nC89NQ",
+        "button_Gtrya3"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Swaasi_20Photo.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_JCzz7g": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_7PCqKx": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Innovative<\/strong>",
+            "text": "<p>Swaasi embraces the latest technologies to bring you the latest items at the best value<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_AX3ab7": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Curated<\/strong>",
+            "text": "<p>We keep your feed full of the freshest, on-trend products<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_g6qUb3": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Experienced<\/strong>",
+            "text": "<p>Swaasi was born out of over 40 years of experience in branded goods<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_g6qUb3",
+        "column_AX3ab7",
+        "column_7PCqKx"
+      ],
+      "settings": {
+        "title": "Meet The Business Levelling-Up Merch",
+        "heading_size": "h0",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "video": {
       "type": "video",
       "disabled": true,
@@ -290,14 +299,5 @@
         "padding_bottom": 36
       }
     }
-  },
-  "order": [
-    "image_banner",
-    "multicolumn_JCzz7g",
-    "image_banner_QPNMTw",
-    "image_with_text_MpTTcU",
-    "collage",
-    "featured_collection",
-    "video"
-  ]
+  }
 }
