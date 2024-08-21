@@ -23,14 +23,14 @@
         "heading_xzEhGb": {
           "type": "heading",
           "settings": {
-            "heading": "Our Story",
+            "heading": "We are Swag as a Service",
             "heading_size": "h1"
           }
         },
         "text_U3arBp": {
           "type": "text",
           "settings": {
-            "text": "For over 40 Years, the Liscum Family has provided the finest promotional goods to the largest companies in the world - Merchshop.ai is the evolution of a relentless pursuit of quality and service. ",
+            "text": "Consulting Services and Customization Services for Manufacturing and Retail Brands",
             "text_style": "body"
           }
         },
@@ -226,62 +226,6 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
-    },
-    "multicolumn_r6Ljxh": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_hFiwbr": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_1689.jpg",
-            "title": "Embroidery",
-            "text": "",
-            "link_label": "Learn More",
-            "link": ""
-          }
-        },
-        "column_xwdEw7": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_2674.jpg",
-            "title": "Laser",
-            "text": "",
-            "link_label": "Learn More",
-            "link": ""
-          }
-        },
-        "column_Vjc7kR": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_2531.jpg",
-            "title": "Direct-To-Item Printing",
-            "text": "",
-            "link_label": "Learn More",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_hFiwbr",
-        "column_xwdEw7",
-        "column_Vjc7kR"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -290,7 +234,6 @@
     "image_with_text_6M6fMV",
     "image_with_text_HmXkXQ",
     "rich_text_dqE8nD",
-    "rich_text_3bj6Vz",
-    "multicolumn_r6Ljxh"
+    "rich_text_3bj6Vz"
   ]
 }
