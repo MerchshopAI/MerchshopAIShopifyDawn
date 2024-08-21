@@ -17,15 +17,45 @@
         "padding_bottom": 28
       }
     },
+    "rich_text_bna3bG": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_DaNEBD": {
+          "type": "heading",
+          "settings": {
+            "heading": "We are Swag as a Service",
+            "heading_size": "h1"
+          }
+        },
+        "text_HMjFtP": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Swaasi stands out in the SaaS and professional services landscape by offering robust, user-centric platforms that are both intuitive and highly customizable. Our solutions not only simplify the ordering process but also enable businesses to offer personalized experiences to their customers, driving loyalty and repeat business. By bridging the gap between manufacturers and end users, Swaasi delivers value across the entire supply chain, fostering stronger partnerships and more efficient operations.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_DaNEBD",
+        "text_HMjFtP"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "featured_collection_ycpaKN": {
       "type": "featured-collection",
       "settings": {
         "title": "Merchview",
-        "heading_size": "h1",
-        "description": "",
+        "heading_size": "h2",
+        "description": "<p>Our Merch View software seamlessly integrates with your system, products, and customers to deliver stunning, realistic mockups of branded goods. Effortlessly showcase custom logos and designs in real time, offering your clients a vivid preview of their brand's potential.<\/p><ul><li>Advanced location logic for precise placements<\/li><li>Realistic rendering of embroidery threads<\/li><li>30+ Detailed simulations including glass, wood, and stainless-steel engraving<\/li><li>Accurate representation of curves and shadows<\/li><li>Automatic background removals for a clean presentation<\/li><\/ul>",
         "show_description": false,
         "description_style": "body",
-        "collection": "",
+        "collection": "swaasi-decoration-app-example-gallery",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
@@ -48,6 +78,7 @@
   },
   "order": [
     "main",
+    "rich_text_bna3bG",
     "featured_collection_ycpaKN"
   ]
 }
