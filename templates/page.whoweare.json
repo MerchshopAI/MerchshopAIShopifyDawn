@@ -53,13 +53,13 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_1689.jpg",
-        "image_overlay_opacity": 60,
-        "image_height": "medium",
+        "image_overlay_opacity": 50,
+        "image_height": "small",
         "desktop_content_position": "bottom-left",
         "show_text_box": true,
         "desktop_content_alignment": "left",
         "color_scheme": "scheme-3",
-        "image_behavior": "none",
+        "image_behavior": "ambient",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
