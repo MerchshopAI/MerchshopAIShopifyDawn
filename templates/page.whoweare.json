@@ -71,14 +71,14 @@
         "heading_KCTQRt": {
           "type": "heading",
           "settings": {
-            "heading": "Hi, nice to meet you",
+            "heading": "About Swaasi",
             "heading_size": "h1"
           }
         },
         "text_bcbLhd": {
           "type": "text",
           "settings": {
-            "text": "<p>It all started in 1984 with a small shop called Southeastern Embroidery Works. With a focus on delivering high quality products and good customer service, we’ve been operating continuously for almost 40 years.<br\/><\/p><p>In 2020, my team and I set out on a mission to elevate the custom-merchandise purchasing experience to match the exquisite quality of the products my family has been producing for decades. <\/p><p><\/p><p>We built Merchshop. I hope you love it.<\/p>",
+            "text": "<p>Founded in 2022 by industry veteran Charles Liscum, Swaasi is a pioneering Software-as-a-Service (SaaS) company dedicated to revolutionizing the merchandise and promotional products industry. With a rich legacy rooted in a family-run embroidery business spanning over four decades, Swaasi was conceived to address the critical disconnect between end users and manufacturers that plagues the sector.<\/p>",
             "text_style": "body"
           }
         },
@@ -89,21 +89,12 @@
             "button_link": "",
             "button_style_secondary": false
           }
-        },
-        "caption_eVpj3h": {
-          "type": "caption",
-          "settings": {
-            "caption": "Charles Liscum, CEO",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "large"
-          }
         }
       },
       "block_order": [
         "heading_KCTQRt",
         "text_bcbLhd",
-        "button_Utxb9P",
-        "caption_eVpj3h"
+        "button_Utxb9P"
       ],
       "settings": {
         "height": "adapt",
@@ -126,14 +117,14 @@
         "heading_BDjad7": {
           "type": "heading",
           "settings": {
-            "heading": "An Unrivaled, Personal Experience",
+            "heading": "<strong>Our Expertise<\/strong>",
             "heading_size": "h1"
           }
         },
         "text_egcaxi": {
           "type": "text",
           "settings": {
-            "text": "<p>Swaasi was founded on the principle that purchasing branded merchandise should fundamentally encompass 3 core elements.<em>Simple. Curated. Fun.<\/em><\/p><p>Guided by this mission, we have created an experience rivalled by no others - the personalized Merchshop. Your Merchshop will grow and change with your business, the seasons, the hottest trends, and become your trusted source for only the best in quality and service.<\/p>",
+            "text": "<p>At Swaasi, we specialize in developing cutting-edge solutions that empower businesses to streamline their operations and enhance customer engagement. Our core competencies include advanced web-to-print and design-online ordering systems, meticulously designed to meet the unique demands of companies involved in the sale, resale, and manufacturing of promotional products. These systems are engineered to provide seamless integration between all stakeholders, ensuring efficiency, accuracy, and scalability in every transaction.<\/p>",
             "text_style": "body"
           }
         },
