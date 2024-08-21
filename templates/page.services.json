@@ -71,32 +71,20 @@
         "heading_mFiRrF": {
           "type": "heading",
           "settings": {
-            "heading": "The Merchshop",
+            "heading": "Business Services",
             "heading_size": "h1"
           }
         },
         "text_r9BDKN": {
           "type": "text",
           "settings": {
-            "text": "<p>Swaasi's flagship product is the fully automated Merchshop. A Merchshop is a bespoke purchasing experience for your business or organization, where you can order branded merch with your logo in a fun, easy to use experience.<\/p>"
-          }
-        },
-        "button_dhmUeH": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "text": "<p>Our Business Services are designed to elevate your business operations and optimize your strategies in the branded goods and promotional products industry. Leveraging our deep industry expertise and cutting-edge technology, we provide tailored solutions that address your unique challenges and drive measurable results.<\/p><p><\/p>"
           }
         }
       },
       "block_order": [
         "heading_mFiRrF",
-        "text_r9BDKN",
-        "button_dhmUeH"
+        "text_r9BDKN"
       ],
       "settings": {
         "desktop_content_position": "center",
