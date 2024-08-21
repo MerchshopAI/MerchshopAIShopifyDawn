@@ -289,6 +289,59 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "multicolumn_Hyjc6p": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_qD3eqL": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Duties, Taxes, Tarrifs<\/strong>",
+            "text": "<p>Understanding and managing duties, taxes, and tariffs is crucial for businesses engaged in international trade. We offer expert guidance to navigate these complex regulations, ensuring compliance and optimizing your cost structure.<\/p><p><strong>Key Services:<\/strong><\/p><ul><li>Comprehensive assessment of applicable duties and taxes<\/li><li>Strategic planning to minimize tariff impacts<\/li><li>Assistance with customs declarations and documentation<\/li><li>Guidance on trade agreements and preferential tariffs<\/li><li>Ongoing compliance monitoring and support<\/li><\/ul>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_yHtExY": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>HS Codes, Country of Origin, and Regional Content Value<\/strong>",
+            "text": "<p>Navigating the complexities of international trade requires precise knowledge of HS codes, country of origin rules, and regional content value. Our team provides the expertise to ensure your products meet all regulatory requirements and maximize trade benefits.<\/p><p><strong>Key Services:<\/strong><\/p><ul><li>Accurate classification and assignment of HS codes<\/li><li>Determination and verification of product country of origin<\/li><li>Analysis of regional content value to meet trade agreement criteria<\/li><li>Assistance with documentation and certification for customs<\/li><li>Strategic advice to optimize tariff benefits based on origin and content<\/li><\/ul>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_JdMQf6": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Product Data, GTIN Numbers, and Bundling Products into Kits<\/strong>",
+            "text": "<p>Efficient product data management and strategic bundling can significantly impact your business's trade benefits. We help you accurately assign GTIN numbers and bundle products into kits to achieve reclassification of manufacturing origin, optimizing your tariffs and compliance.<\/p><p><strong>Key Services:<\/strong><\/p><ul><li>Centralized management and optimization of product data<\/li><li>Accurate assignment and registration of GTIN numbers<\/li><li>Strategic kitting and bundling to reclassify manufacturing origin<\/li><li>Assistance with documentation for customs reclassification<\/li><li>Integration of reclassified product data into inventory and sales systems<\/li><\/ul>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_qD3eqL",
+        "column_yHtExY",
+        "column_JdMQf6"
+      ],
+      "settings": {
+        "title": "International Markets - Services and Offerings",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Services",
+        "button_link": "shopify:\/\/pages\/services",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -298,6 +351,7 @@
     "image_with_text_MpTTcU",
     "collage",
     "featured_collection",
-    "video"
+    "video",
+    "multicolumn_Hyjc6p"
   ]
 }
