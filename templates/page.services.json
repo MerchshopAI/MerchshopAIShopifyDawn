@@ -264,6 +264,67 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "collapsible_content_4niyfT": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_hbcDgD": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Supplier Integration",
+            "icon": "none",
+            "row_content": "<p>Expand your product offerings effortlessly with our supplier integration services. Add entire product categories to your catalog with just a few clicks, thanks to our ever-growing network of suppliers.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_DU7Cw6": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "E-Commerce Integrations",
+            "icon": "none",
+            "row_content": "<p>Enhance your online store’s functionality with seamless e-commerce integrations. Our solutions connect your back end ERP and CRM solutions to optimize operations, streamline order processing, and improve the overall shopping experience for your customers.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_TQMmNH": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Web-To-Print",
+            "icon": "none",
+            "row_content": "<p>Offer personalized products effortlessly with our web-to-print integrations. Enable customers to customize their orders directly through your site, increasing engagement and satisfaction with a smooth, user-friendly process.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_KH6ekh": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Global Market Expansion",
+            "icon": "none",
+            "row_content": "<p>Reach global markets with confidence through our international shipping integrations. Our expertise covers HS classifications, product bundling, customs declarations, international tax remittance, and customs brokerage, ensuring efficient and compliant international operations.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_hbcDgD",
+        "collapsible_row_DU7Cw6",
+        "collapsible_row_TQMmNH",
+        "collapsible_row_KH6ekh"
+      ],
+      "settings": {
+        "caption": "Our Expertise",
+        "heading": "At Swaasi, we offer a comprehensive suite of solutions designed to empower businesses in the branded goods space. Our turn-key consulting packages are tailored to meet the unique needs of companies, providing them with the tools and strategies required to thrive in a competitive marketplace. Our core services include:",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -273,6 +334,7 @@
     "multicolumn_deJhYg",
     "rich_text_dqE8nD",
     "rich_text_3bj6Vz",
-    "multicolumn_r6Ljxh"
+    "multicolumn_r6Ljxh",
+    "collapsible_content_4niyfT"
   ]
 }
