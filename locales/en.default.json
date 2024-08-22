@@ -568,5 +568,10 @@
     "StockCounter": {
       "let_buy_now": "<mark>HURRY!<\/mark> LET BUY NOW"
     }
+  },
+  "shopify": {
+    "links": {
+      "powered_by_shopify": " "
+    }
   }
 }
