@@ -39,7 +39,7 @@
     "header": {
       "type": "header",
       "custom_css": [
-        "{font-size: 2rem;}"
+
       ],
       "settings": {
         "logo_position": "top-center",
