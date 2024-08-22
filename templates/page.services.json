@@ -23,7 +23,7 @@
         "heading_xzEhGb": {
           "type": "heading",
           "settings": {
-            "heading": "",
+            "heading": "Business Services",
             "heading_size": "h1"
           }
         },
@@ -70,6 +70,7 @@
       "blocks": {
         "heading_mFiRrF": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Business Services",
             "heading_size": "h1"
@@ -78,7 +79,7 @@
         "text_r9BDKN": {
           "type": "text",
           "settings": {
-            "text": "<p>Our Business Services are designed to elevate your business operations and optimize your strategies in the branded goods and promotional products industry. Leveraging our deep industry expertise and cutting-edge technology, we provide tailored solutions that address your unique challenges and drive measurable results.<\/p><p><\/p>"
+            "text": "<p>Swaasi's business and consulting services are designed to elevate your business operations and optimize your strategies in the branded goods and promotional products industry. Leveraging our deep industry expertise and cutting-edge technology, we provide tailored solutions that address your unique challenges and drive measurable results.<\/p><p><\/p>"
           }
         }
       },
@@ -132,7 +133,7 @@
         "collapsible_row_hbcDgD": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Supplier Integration",
+            "heading": "Supplier Connections",
             "icon": "none",
             "row_content": "<p>Expand your product offerings effortlessly with our supplier integration services. Add entire product categories to your catalog with just a few clicks, thanks to our ever-growing network of suppliers.<\/p>",
             "page": ""
@@ -152,7 +153,7 @@
           "settings": {
             "heading": "Web-To-Print",
             "icon": "none",
-            "row_content": "<p>Offer personalized products effortlessly with our web-to-print integrations. Enable customers to customize their orders directly through your site, increasing engagement and satisfaction with a smooth, user-friendly process.<\/p>",
+            "row_content": "<p>Modern Customers aren't settling for bland, generic items.  Enabling a web-to-print integration allows customers to personalize their orders directly through your site. Seamless API connections allow both internal, and external white-label fulfillment.<\/p>",
             "page": ""
           }
         },
