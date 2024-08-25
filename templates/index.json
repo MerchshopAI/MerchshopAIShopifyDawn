@@ -58,25 +58,32 @@
         "text_7z7yhU": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<h2>Software Solutions<\/h2><p>At Swaasi, our software suite is engineered to revolutionize the branded goods and promotional products industry. Our flagship platform, <strong>Merchshop<\/strong>, provides businesses with unparalleled control over their buying portals, offering advanced features such as product curation, flexible spend management, and points-based purchasing systems. <strong>MerchView<\/strong> automates the application of customer logos across thousands of products, utilizing brand-specific rules to ensure color accuracy and simulate various customization techniques, including embroidery, printing, and laser engraving. Our <strong>Trust Module<\/strong> equips manufacturers with the tools to display accurate production timelines, integrating real-time inventory data, factory capacity, and shipping logistics for transparent and reliable customer communication.<\/p>"
           }
         },
         "button_JwC3py": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Software Products",
             "button_link": "",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
+        },
+        "text_PAnyEL": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Services & Consulting<\/h2><p>Swaasi’s consulting services are designed to address the unique challenges of the branded merchandise sector. Our expertise lies in providing seamless <strong>e-commerce and web-to-print integrations<\/strong>, enabling businesses to enhance customer personalization and streamline order processing. We offer <strong>graphic design automation<\/strong> that eliminates tedious manual work, ensuring efficient, accurate product visualization and faster time to market. Additionally, our <strong>international shipping integration<\/strong> services extend your reach to global markets with expert handling of HS classifications, customs documentation, and logistics coordination. Swaasi is your strategic partner in optimizing operations, driving efficiency, and enabling sustainable growth through tailored, industry-specific consulting solutions.<\/p>"
+          }
         }
       },
       "block_order": [
         "heading_R7JhTj",
         "text_7z7yhU",
-        "button_JwC3py"
+        "button_JwC3py",
+        "text_PAnyEL"
       ],
       "settings": {
         "desktop_content_position": "center",
