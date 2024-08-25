@@ -65,7 +65,7 @@
           "type": "button",
           "settings": {
             "button_label": "Software Products",
-            "button_link": "",
+            "button_link": "shopify:\/\/pages\/software-solutions",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -77,13 +77,25 @@
           "settings": {
             "text": "<h2>Services & Consulting<\/h2><p>Swaasi’s consulting services are designed to address the unique challenges of the branded merchandise sector. Our expertise lies in providing seamless <strong>e-commerce and web-to-print integrations<\/strong>, enabling businesses to enhance customer personalization and streamline order processing. We offer <strong>graphic design automation<\/strong> that eliminates tedious manual work, ensuring efficient, accurate product visualization and faster time to market. Additionally, our <strong>international shipping integration<\/strong> services extend your reach to global markets with expert handling of HS classifications, customs documentation, and logistics coordination. Swaasi is your strategic partner in optimizing operations, driving efficiency, and enabling sustainable growth through tailored, industry-specific consulting solutions.<\/p>"
           }
+        },
+        "button_RiKcNa": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
         }
       },
       "block_order": [
         "heading_R7JhTj",
         "text_7z7yhU",
         "button_JwC3py",
-        "text_PAnyEL"
+        "text_PAnyEL",
+        "button_RiKcNa"
       ],
       "settings": {
         "desktop_content_position": "center",
