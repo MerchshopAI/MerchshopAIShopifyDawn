@@ -97,6 +97,7 @@
         "button_Utxb9P"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/SummerRace_v3_1600.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -134,6 +135,7 @@
         "text_egcaxi"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/OSYY8O0.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
