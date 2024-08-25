@@ -207,6 +207,49 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "multicolumn_dLYPjG": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_FybzP6": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Merchshop for Businesses<\/strong>",
+            "text": "<p>Our flagship software solution, Merchshop, provides businesses with comprehensive control over their branded merchandise portals. Key features include:<\/p><ul><li><strong>Product Curation<\/strong>: Businesses can manage product collections to be accessible to everyone or restrict access to specific buyer groups, such as managers. Companies have full control over what products are available and to whom.<\/li><li><strong>Spend Management<\/strong>: Offers flexible payment options through integrations with corporate procurement systems. Additionally, Merchshop includes a <strong>Points-Based Purchasing<\/strong> feature, enabling employee purchasing and rewards through a points system.<\/li><\/ul>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_dyRX9D": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Merchshop for Promotional Distributors<\/strong>",
+            "text": "<p>Merchshop provides tailored services to promotional product distributors, enhancing their ability to offer a broad range of products and delivering an exceptional e-commerce experience for their clients. Key features include:<\/p><ul><li><strong>MerchView<\/strong>: This module replaces hours of manual Photoshop work with a rules-based automation interface, allowing for quick and accurate application of logos to products. This results in higher conversion rates and increased purchasing confidence.<\/li><li><strong>Supplier Integration<\/strong>: Swaasi integrates with an ever-expanding network of suppliers, enabling distributors to effortlessly add entire product categories to their offerings with just a few clicks.<\/li><li><strong>International Market Access<\/strong>: Access international markets with ease by integrating with leading shipping services. Swaasi’s expertise includes HS Classifications, product bundling, customs declarations, international tax remittance, and customs brokerage.<\/li><\/ul><p><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_FybzP6",
+        "column_dyRX9D"
+      ],
+      "settings": {
+        "title": "Who is our software for?",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -215,6 +258,7 @@
     "featured_collection_ycpaKN",
     "image_with_text_rN4MG3",
     "image_with_text_34LG4a",
-    "image_banner_KMEwYq"
+    "image_banner_KMEwYq",
+    "multicolumn_dLYPjG"
   ]
 }
