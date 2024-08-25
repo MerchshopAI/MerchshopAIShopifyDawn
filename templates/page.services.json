@@ -187,6 +187,48 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "rich_text_HWPhkM": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_emnzRe": {
+          "type": "heading",
+          "settings": {
+            "heading": "Strategic Solutions for Branded Growth",
+            "heading_size": "h2"
+          }
+        },
+        "text_FgDxUA": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our business consulting services are crafted to deliver exceptional value and drive your business forward. Here’s how partnering with Swaasi can benefit you:<\/p><ul><li><strong>Expertise<\/strong>: Leverage our deep industry knowledge and technical expertise to address your specific needs and overcome operational challenges.<\/li><li><strong>Customization<\/strong>: Receive tailored solutions that align with your business goals and operational requirements.<\/li><li><strong>Efficiency<\/strong>: Streamline your processes with our advanced technology and integrations, enhancing overall efficiency and reducing manual efforts.<\/li><li><strong>Customer Experience<\/strong>: Improve customer satisfaction with innovative solutions that offer personalized, seamless interactions and support.<\/li><li><strong>Global Reach<\/strong>: Expand your market presence with our comprehensive international shipping solutions and access to a network of suppliers.<\/li><\/ul><p>Let us help you transform your business operations and elevate your performance in the competitive landscape of branded merchandise and promotional products. Contact us today to learn more about how Swaasi’s consulting expertise can help you achieve your business objectives and drive sustainable growth.<\/p><p><\/p>"
+          }
+        },
+        "button_gz449f": {
+          "type": "button",
+          "settings": {
+            "button_label": "Book a Free Consultation Today",
+            "button_link": "shopify:\/\/pages\/contact-us",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_emnzRe",
+        "text_FgDxUA",
+        "button_gz449f"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -194,6 +236,7 @@
     "image_banner_7NxKwk",
     "rich_text_LQzzzc",
     "rich_text_dqE8nD",
-    "collapsible_content_4niyfT"
+    "collapsible_content_4niyfT",
+    "rich_text_HWPhkM"
   ]
 }
